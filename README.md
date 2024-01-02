@@ -5,7 +5,7 @@ MULTI BRUTE FORCE FACEBOOK
     $ pkg install git
     $ pkg install python3
     $ git clone https://github.com/Juanhulu/STERRIRO
-    $ cd FB-FEED
+    $ cd STERRIRO
     $ pip3 install -r requirements.txt
     $ python3 Run.py
 
